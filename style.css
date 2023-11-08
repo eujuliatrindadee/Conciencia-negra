@@ -1,0 +1,23 @@
+#imagem1 {
+    width: 100%;
+}
+#imagem2 {
+    width: 60%;
+}
+
+#imagem3 {
+    width: 60%;
+}
+#imagem4 {
+    width: 60%;
+}
+
+
+li{
+    border-width: 10px;
+    border-style: solid;
+    border-color:yellow;
+}
+p{
+    text-align: justify;
+}
